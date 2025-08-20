@@ -54,3 +54,5 @@ You should learn about ASM guide and code with other disassembly ROM Hack (Inclu
 Use [ClownMapEd](https://github.com/Clownacy/ClownMapEd) in which is recommended and HivePal if you want to edit palette even easier.
 ## Flex2 don't recognize Sonic 3 Kosinki Module Plus, how I do?
 Use CLownMapEd still, or you can uncompress it and compress after editing the sprite.
+## Can I work on this disassembly with my Linux operating system?
+Sure, but you want to use [WineHQ](https://www.winehq.org/) instead.
