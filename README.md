@@ -56,3 +56,5 @@ Use [ClownMapEd](https://github.com/Clownacy/ClownMapEd) in which is recommended
 Use CLownMapEd still, or you can uncompress it and compress after editing the sprite.
 ## Can I work on this disassembly with my Linux operating system?
 Sure, but you want to use [WineHQ](https://www.winehq.org/) instead.
+## This ROM Hack gives me nostalgia, but why?
+Mildanner was trying to make this ROM Hack based off other old ROM Hacks from old school but with better and clean look, he had childhood of playing Sonic 1 Megamix which was made with Hivebrain 2005 in past.
