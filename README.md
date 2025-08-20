@@ -56,7 +56,7 @@ You should learn about ASM guide and code with other disassembly ROM Hack (Inclu
 ## How do you make palettes and edit sprites in Sonic 3?
 Use [ClownMapEd](https://github.com/Clownacy/ClownMapEd) in which is recommended and HivePal if you want to edit palette even easier.
 ## Flex2 don't recognize Sonic 3 Kosinski-M Plus, how do I do?
-Use ClownMapEd still, or you can uncompress it and compress after editing the sprite.
+Use ClownMapEd still, or you can uncompress it and compress after editing the sprite (COMPRESS THE SPRITE USING CLOWNMAPED AND NOT FLEX2!!!!).
 ## Can I work on this disassembly with my Linux operating system?
 Sure, but you want to use [WineHQ](https://www.winehq.org/) instead.
 ## This ROM Hack gives me nostalgia, but why?
