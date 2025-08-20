@@ -41,6 +41,7 @@ It has also Clone Driver and Mega PCM 2 for custom tracks being added in Sonic 3
 * You - The Player
 
 Do not use any of content by Mildanner without permission.
+
 Here are questions related to S.C.E and Under Neat Project.
 ## Why Under Neat?
 Under Neat is also known as Under 500 in previously, but now it's scrapped with polished palette and stuff incoming. It had controversy where Mildanner has "stole" a music from the Boss Theme of Sonic 1 Definitive SHC 2021 and got him in Limbo, Mildanner got recently exiled because of his actions and he's trying and sometime he will redeem himself and gradual improvement of his behavior soon.
