@@ -1,3 +1,5 @@
+<img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/c989f151-34ed-4519-a1ed-d735c260cde0" />
+
 # Sonic 1 - Under Neat (Sonic Clean Engine)
 A ROM Hack based off Sonic Clean Engine that adds extended camera, extra music and other stuff like sprite edits and furthermore.
 
