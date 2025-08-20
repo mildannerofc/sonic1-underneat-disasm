@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.asm text
+*.txt text
+*.xml text
+*.cs text
+*.cpp text
+*.ini text
+*.py text
+*.log text
+*.lst text
+*.pal binary
+*.eni binary
+*.nem binary
+*.kos binary
+*.kosm binary
+*.kosp binary
+*.kospm binary
+*.unc binary
+*.pcm binary
+*.dpcm binary
+*.snd binary
+*.bin binary
+*.gen binary
+*.html linguist-detectable=false
