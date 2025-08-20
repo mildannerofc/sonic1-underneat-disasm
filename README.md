@@ -61,4 +61,4 @@ Sure, but you want to use [WineHQ](https://www.winehq.org/) instead.
 ## This ROM Hack gives me nostalgia, but why?
 Mildanner was trying to make this ROM Hack based off other old ROM Hacks from old school (Unlike from 2006 and 2010s) but with better and clean look, he had childhood of playing Sonic 1 Megamix which was made with Hivebrain 2005 in past.
 ## What's MLDN?
-Badge of Mildanner, not something that you expect!
+Badge of Mildanner, not something that you expect it to be!
