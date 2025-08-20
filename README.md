@@ -37,3 +37,5 @@ It has also Clone Driver and Mega PCM 2 for custom tracks being added in Sonic 3
 * Selbi - Sonic CD SFX Jump from Sonic ERaZoR
 * Speems - Spindash S3 Recreation
 * You - The Player
+
+Do not use any of content by Mildanner without permission.
