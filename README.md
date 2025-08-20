@@ -50,3 +50,5 @@ No, it's only included branch of S2 Clone Driver and Mega PCM 2 by Vladikcomper 
 [Here you go.](https://github.com/TheBlad768/Sonic-1-in-Sonic-3-S.C.E.-)
 ## But for learning code, how I do?
 You should learn about ASM guide and code with other disassembly ROM Hack (Including one you work).
+## How do you make palettes and edit sprites in Sonic 3?
+Use [ClownMapEd](https://github.com/Clownacy/ClownMapEd) in which is recommended and HivePal if you want to edit palette even easier.
