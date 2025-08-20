@@ -52,3 +52,5 @@ No, it's only included branch of S2 Clone Driver and Mega PCM 2 by Vladikcomper 
 You should learn about ASM guide and code with other disassembly ROM Hack (Including one you work).
 ## How do you make palettes and edit sprites in Sonic 3?
 Use [ClownMapEd](https://github.com/Clownacy/ClownMapEd) in which is recommended and HivePal if you want to edit palette even easier.
+## Flex2 don't recognize Sonic 3 Kosinki Module +, how I do?
+Use CLownMapEd still, or you can uncompress it and compress after editing the sprite.
